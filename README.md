@@ -39,7 +39,7 @@ Credits to: Szadi art (https://szadiart.itch.io/) for the character asset.
 
 
 ## Main Menu
-![image](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/6f90a168-4ee3-4439-a008-0a295678108f)
+![image](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/3042fe47-a0a6-48df-a96a-507de14a8639)
 
 ## Gameplay
 
