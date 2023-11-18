@@ -30,7 +30,7 @@ Credits to: Szadi art (https://szadiart.itch.io/) for the character asset.
 
 ![Game Screenshot 2](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/14eb8089-0111-431b-b89c-1e5709d76707)
 
-## Level Design
+## Level Design - Level 1: Tan Yan Kee Garden
 ![image](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/c60232ef-5276-457e-a6a9-254d0cece776)
 
 ![image](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/c4becf75-f5f1-497c-80a2-1c7170e0a414)
