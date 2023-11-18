@@ -10,7 +10,7 @@ Pick up health potions to keep going.
 Standard WASD and F for attack.
 
 ## Assets
-
+Credits to: Szadi art (https://szadiart.itch.io/) for the character asset.
 
 ## Game Screenshots
 ![Game Screenshot 1](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/ba9a4faf-786e-4a0e-9e58-8687c98d40a7)
