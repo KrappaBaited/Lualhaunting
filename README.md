@@ -24,6 +24,8 @@ Credits to: Szadi art (https://szadiart.itch.io/) for the character asset.
 
 ![_down idle](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/6944b1d3-d6c7-4813-a655-e17cecdaf1bc)
 
+## Main Menu
+![image](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/3042fe47-a0a6-48df-a96a-507de14a8639)
 
 ## Game Screenshots
 ![Game Screenshot 1](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/ba9a4faf-786e-4a0e-9e58-8687c98d40a7)
@@ -37,11 +39,6 @@ Credits to: Szadi art (https://szadiart.itch.io/) for the character asset.
 
 ![image](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/22e28e3c-a15a-4785-9f4f-8e4185ad5d07)
 
-
-## Main Menu
-![image](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/3042fe47-a0a6-48df-a96a-507de14a8639)
-
-## Gameplay
 
 
 ## BUILD FILE 
