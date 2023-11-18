@@ -11,6 +11,7 @@ Standard WASD and F for attack.
 
 ## Assets
 Credits to: Szadi art (https://szadiart.itch.io/) for the character asset.
+
 ![_up walk](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/5c743ccf-d7d0-4852-8881-5b1e44b53eef)
 
 ![_up idle](https://github.com/KrappaBaited/Lualhaunting/assets/116071036/15a00733-77f3-40ce-bd3b-47d91c81755b)
